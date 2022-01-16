@@ -1,0 +1,12 @@
+tech\getarrays\employeemanager\services\EmployeeServiceImpl.class
+tech\getarrays\employeemanager\dto\EmployeeGetDto.class
+tech\getarrays\employeemanager\dto\EmployeeReturnDto.class
+tech\getarrays\employeemanager\services\interfaces\EmployeeService.class
+tech\getarrays\employeemanager\exception\EmployeeNotFoundException.class
+tech\getarrays\employeemanager\EmployeeManagerApplication.class
+tech\getarrays\employeemanager\controllers\EmployeeController.class
+tech\getarrays\employeemanager\model\Employee.class
+tech\getarrays\employeemanager\repositories\EmployeeRepository.class
+tech\getarrays\employeemanager\mapper\EmployeeMapper.class
+tech\getarrays\employeemanager\mapper\EmployeeMapperImpl.class
+tech\getarrays\employeemanager\model\BaseEntity.class
